@@ -3,7 +3,7 @@
 CUSTOM GPT
 
 Product Description:
-This project is intended to provide a framework for using an LLM (ChatGPT) to navigate any dataset that's fed to it. It's intended to be used as a cusom AI that can be fed specific datasets to fill various end-user needs. For instance, if you work in a large organization, and you want an advisor that has the most up-to-date policy and regulations, you could feed live up-to-date information to this custom AI and it would be able to feed you back relevant and accurate responses.
+This project is intended to provide a framework for using an LLM (ChatGPT) to navigate any dataset that's fed to it. This should enable it to fill various end-user needs. For instance, if you work in a large organization, and you want an advisor that has the most up-to-date policy and regulations, you could feed live up-to-date information to this custom AI and it would be able to feed you back relevant and accurate responses.
 
 # ------------------------------------------------------ #
 v1.0
